@@ -10,17 +10,28 @@
   - `AWS`, `OCI` ☁️
   - `Linux`, `Shell`, `Python`, `FastAPI` 🔨
   - `SaltStack`, `Ansible` 🧂
+  - `Zabbix`, `Prometheus` 🔬
 
-- 🧠🌱 I’m currently learning **Terraform & GCP**
+- 🧠🌱 I’m currently learning **Terraform 🌎 & GCP ☁️**
 <!--
 - 👨‍💻 All of my projects are available at [www.luishenriquejm.me/portfolio](https://www.luishenriquejm.me/portfolio)
 - 📝 I regularly write articles on [www.databasedungeon.com](https://www.databasedungeon.com)
 
 - 📄 Know about my experiences [www.luishenriquejm.me/cv](https://www.luishenriquejm.me/cv)
 -->
-- 📮📫 How to reach me: [LinkedIn](https://www.linkedin.com/luishenriquejm)
+- 📮📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luishenriquejm)
 
 <h1></h1>
+
+Certifications:
+<p>
+  <a href="https://www.credly.com/badges/229714a7-589b-43e1-aad8-628b6741b59b"><img src="https://images.credly.com/size/680x680/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png"      alt="AWS-DBS"  width="100" height="100"/></a>
+  <a href="https://www.credly.com/badges/b245bdbe-c956-489d-b61e-84ddde49c94f"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"      alt="AWS-CSA"  width="100" height="100"/></a>
+  <a href="https://www.credly.com/badges/e8d13240-5a82-4f31-8430-fd53400f1cfa"><img src="https://images.credly.com/size/680x680/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png"      alt="LNX-PCA"  width="100" height="100"/></a>
+  <a href="https://www.credly.com/badges/fb49b9fa-7049-46f5-acea-5105bc1c38d3"><img src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="LNX-KCNA" width="100" height="100"/></a>
+</p>
+
+Full list available [here](https://www.linkedin.com/in/luishenriquejm/details/certifications/)
 
 <!--
 **luishenriquejm/luishenriquejm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
