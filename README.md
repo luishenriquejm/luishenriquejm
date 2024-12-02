@@ -32,7 +32,7 @@ Certifications:
   <a href="https://www.credly.com/badges/dcbcaaa8-aad5-44b1-9854-21718c14e9a0"><img src="https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png"      alt="GCP-CDL"  width="100" height="100"/></a>   
 </p>
 
-Full list available [here](https://www.linkedin.com/in/luishenriquejm/details/certifications/)
+Full list available [here](certification-full-list.md)
 
 <!--
 **luishenriquejm/luishenriquejm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
