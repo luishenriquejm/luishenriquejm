@@ -12,7 +12,7 @@
   - `SaltStack`, `Ansible` 🧂
   - `Zabbix`, `Prometheus` 🔬
 
-- 🧠🌱 I’m currently learning **Terraform 🌎 & GCP ☁️**
+- 🧠🌱 I’m currently learning **MySQL 🐬**
 <!--
 - 👨‍💻 All of my projects are available at [www.luishenriquejm.me/portfolio](https://www.luishenriquejm.me/portfolio)
 - 📝 I regularly write articles on [www.databasedungeon.com](https://www.databasedungeon.com)
