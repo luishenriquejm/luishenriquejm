@@ -8,7 +8,7 @@
 - ⚙️🛠️ My skills:
   - `Oracle`, `PostgreSQL` 🐘
   - `AWS`, `OCI` ☁️
-  - `Linux`, `Shell`, `Python`, `FastAPI` 🔨
+  - `Linux`, `Shell`, `Python` 🔨
   - `SaltStack`, `Ansible` 🧂
   - `Zabbix`, `Prometheus` 🔬
 
