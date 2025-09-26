@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Luis</h1>
-<h3 align="center">A passionate Cloud Database Engineer from Brazil, current living in Portugal</h3>
+<h3 align="center">A passionate Cloud Database Engineer from Brazil</h3>
 
 <h4 align="center">I have expertise in provisioning and managing cloud & on-prem databases, resulting in highly scalable and reliable systems</h4>
 
