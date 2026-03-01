@@ -6,13 +6,13 @@
 <h1></h1>
 
 - ⚙️🛠️ My skills:
-  - `Oracle`, `MongoDB`, `PostgreSQL` 🐘
+  - `Oracle`, `MongoDB`, `PostgreSQL` 🐘, `MySQL` 🐬
   - `AWS`, `OCI` ☁️
   - `Linux`, `Shell`, `Python` 🔨
   - `SaltStack`, `Ansible` 🧂
   - `Zabbix`, `Prometheus` 🔬
 
-- 🧠🌱 I’m currently learning **MySQL 🐬**
+- 🧠🌱 I’m currently learning **Terraform**
 <!--
 - 👨‍💻 All of my projects are available at [www.luishenriquejm.me/portfolio](https://www.luishenriquejm.me/portfolio)
 - 📝 I regularly write articles on [www.databasedungeon.com](https://www.databasedungeon.com)
